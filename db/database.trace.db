@@ -1,0 +1,4 @@
+2021-03-25 14:31:31 jdbc[253]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Error de Sintaxis en sentencia SQL "USER_ROLES[*]"; se esperaba "UPDATE, USE"
+Syntax error in SQL statement "USER_ROLES[*]"; expected "UPDATE, USE"; SQL statement:
+USER_ROLES [42001-200]
